@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/paris-school/webpack_bundle.git"
+    "url": "git+https://github.com/TatyanaLozova/goit-js-hw-12-countries"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/paris-school/webpack_bundle/issues"
+    "url": "https://github.com/TatyanaLozova/goit-js-hw-12-countries/issues"
   },
-  "homepage": "https://github.com/paris-school/webpack_bundle#readme",
+  "homepage": "https://github.com/TatyanaLozova/goit-js-hw-12-countries#readme",
   "devDependencies": {
     "@babel/core": "^7.12.8",
     "@babel/plugin-proposal-class-properties": "^7.12.1",
